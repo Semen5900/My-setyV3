@@ -116,8 +116,8 @@ footer .legal a:hover{
     justify-content: space-between;
 }
 .section-load .container{
-    height: 400px;
-    width: 1200px;
+    height: auto;
+    width: auto;
     text-align: center;
     display: flex;
     flex-direction: column;
@@ -206,14 +206,10 @@ footer .container {
     margin-right: 10px; 
 }
 @media (max-width: 576px) {
-    .container {
-        padding: 0 5px;
-    }}
+
+}
 @media (max-width: 378px) {
-        .container {
-            padding: 0 2px;
-        }}
-@media (max-width: 768px) {
-            .container {
-                padding: 0 10px;
-            }}
+}
+        @media (max-width: 768px) {
+            
+        }
